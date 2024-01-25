@@ -7,7 +7,7 @@ Hello! I am Md. Mizanur Rahman. I am a student of University of Liberal Arts Ban
 
 Skills: C / C++ / Java / Python /  HTML / CSS / JavaScript / PHP
 
-- ✅I’m currently working on Machine Learning 
+- ✅ I’m currently working on Machine Learning 
 - ✅ I’m currently learning Python 
 - ✅ I’m looking to collaborate on GitHub 
 - ✅ I’m looking for help with Data Science 
