@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Md. Mizanur Rahman.
 #### Machine Learning Engineer | Expert in Python | Data Analyst
 
-Hello! I am Md. Mizanur Rahman. I am a student of University of Liberal Arts Bangladesh in the department of Computer Science and Engineering. Currently I am a student of 4th year. I have completed my Higher Secondary Education in 2019. I have a great attraction for doing social works, programming contests, machine learning and research related works. I am engaged with social and co-curricular activities. I am very determined to be updated regularly. I am expert in Python. I am a Machine Learning Engineer and Data Analyst. I looking for a job in the field of Machine Learning or Data Analysis field. I have intermediate level knowledge in Web Development.
+Hello! I am Md. Mizanur Rahman. I am a student of University of Liberal Arts Bangladesh in the department of Computer Science and Engineering. Currently I am a student of 4th year. I have completed my Higher Secondary Education in 2019. I have a great attraction for doing social works, programming contests, machine learning and research related works. I am engaged with social and co-curricular activities. I am very determined to be updated regularly. I am learning in Python. I am also learning Machine Learning and Data Science. I looking for a job in the field of Machine Learning or Data Analysis field.  I have intermediate level knowledge in Web Development.
 
 Skills: C / C++ / Java / Python /  HTML / CSS / JavaScript / PHP
 
