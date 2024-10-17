@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mizanur Rahman</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
-<img align="right" alt="Machine Learning" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/mlp.gif">
+<img align="right" alt="Machine Learning" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanur1692000&label=Profile%20views&color=0e75b6&style=flat" alt="mizanur1692000" /> </p>
 
@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **Tensorflow, Keras, PyTorch**
 
 - 👯 I’m looking to collaborate on **Data Science**
-
-- 👨‍💻 All of my projects are available at <a href="sites.google.com/view/mdmizanurrahman/home">sites.google.com/view/mdmizanurrahman/home</a>
 
 - 💬 Ask me about **Machine Learning and Data Science**
 
