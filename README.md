@@ -1,14 +1,14 @@
 ![](https://github.com/Mizanur1692000/Mizanur1692000/blob/main/Screenshot_11.png)
 <h1 align="center">Hi 👋, I'm Md. Mizanur Rahman</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Machine Learning and AI Engineer from Bangladesh</h3>
 
 <img align="right" alt="Machine Learning" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanur1692000&label=Profile%20views&color=0e75b6&style=flat" alt="mizanur1692000" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **AI, ML, DL, GenAI Projects**
 
-- 🌱 I’m currently learning **Tensorflow, Keras, PyTorch**
+- 🌱 I’m currently working on **Tensorflow, Keras, PyTorch**
 
 - 👯 I’m looking to collaborate on **Data Science**
 
